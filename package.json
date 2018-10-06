@@ -1,0 +1,27 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "this is a test project",
+  "main": "index.js",
+  "engines": {
+    "node": "10.10.0",
+    "npm": "3.5.2"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nethanjan/mern.git"
+  },
+  "author": "Nethanjan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nethanjan/mern/issues"
+  },
+  "homepage": "https://github.com/nethanjan/mern#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
